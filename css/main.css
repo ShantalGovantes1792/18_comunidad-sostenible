@@ -1,0 +1,102 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+a{
+	text-decoration: none;
+}
+.linea-menu{
+	border-right: solid gray 1px;
+}
+li{
+	font-weight: bolder;
+}
+ul>li{
+	display: inline-block;
+	padding: 0px 20px;
+	color: #585858;
+}
+.menu{
+	height: 80px;
+	background-color: white;
+	padding: 25px 0px;
+}
+.fondo-banner{
+	background-image: url("../img/semilla.jpg");
+	background-size: 100%;
+	height: 300px;
+	background-position: center;
+	margin: 0px;
+}
+#logo{
+	width: 40%;
+	margin-top: -20px;
+}	
+.padding-top-bottom{
+	padding-top: 4%;
+	padding-bottom: 5%;
+}
+.bk-pi{
+	background-image:url("../img/fondo.jpg");
+	background-size: 100%;
+	height: 100%;
+}
+.bk-pik{
+	background-image:url("../img/metodo.jpg");
+	background-size: 100%;
+	height: 100%;
+}
+
+.heigh-bl{
+	height: 400px;
+	margin: 0px;
+
+}
+.p1{
+	width: 70%;
+	margin-left: 15%;
+}
+.img-1{
+	width: 100%;
+}
+.back-green{
+	background-color: #4B6410;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+.white{
+	color: white;
+}
+.ico-red{
+	width: 30px;
+	/*display: inline-block;*/
+}
+.radius{
+	border-radius: 100%;
+	border-color: blue;
+	width:50%;
+}
+.pl{
+	padding-left: 8%;
+}
+.bot-slid{
+	padding-top: 12%;
+}
+.fondo-slider{
+	background-image: url("../img/fondo2.jpg");
+	/*background-size: 100%;
+	height: 300px;
+	background-position: center;
+	margin: 0px;*/
+}
+.borde{
+	border: 1px white solid;
+	height: 200px;
+}
+.redes{
+	padding-bottom: 0px;
+	padding-top: 200%;
+	width: 50%;
+}
+.yellow{
+	color: yellow;
+}
